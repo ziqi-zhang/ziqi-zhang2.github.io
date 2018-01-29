@@ -7,7 +7,7 @@ layout: default
 <tr>
   <!--td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td-->
   <td>
-    <h2>Ziqi(Charles) Zhang 张子祺</h2>
+    <h_name>Ziqi(Charles) Zhang 张子祺</h_name>
     <p>Undergraduate Student</p>
     <p>Institute of Software, School of EECS, Peking University</p>
     <p>ziqi_zhang [AT] pku [dot] edu [dot] cn</p>
