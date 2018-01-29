@@ -35,6 +35,19 @@
 	margin-left: 0.5em;
 }
 
+div.menu-category {
+	border-bottom: 1px solid gray;
+	margin-top: 0.8em;
+	padding-top: 0.2em;
+	padding-bottom: 0.1em;
+	font-weight: bold;
+}
+
+div.menu-item {
+	padding-left: 16px;
+	text-indent: -16px;
+}
+
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
