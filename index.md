@@ -2,6 +2,22 @@
 layout: default
 ---
 
+<table style="border-style:none">
+<tbody style="border-style:hidden">
+<tr>
+  <td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td>
+  <td>
+    <h2>Ziqi(Charles) Zhang 张子祺</h2>
+    <p>Undergraduate Student</p>
+    <p>Institute of Software, School of EECS, Peking University</p>
+    <p>ziqi_zhang [AT] pku [dot] edu [dot] cn</p>
+    <!--p><a href="{{site.baseurl}}/static/files/yuanchun_cv_en.pdf">Download my CV</a>
+    (<a href="{{site.baseurl}}/static/files/yuanchun_cv_zh.pdf">中文版</a>)</p-->
+  </td>
+
+</tr>
+</tbody>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
