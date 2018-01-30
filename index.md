@@ -40,6 +40,7 @@ I'm interested in computer vision, machine learning, SLAM(Simultaneously Localiz
 		<td align="left"><p><b>Aug. 2014 - Jul. 2018 (Expected)</b> <br />
 		Department of Electronics Engineering and Computer Science, <i><b>Peking University</b></i></p></td>
 	</tr>
+	</tbody>
 </table>
 
 # [](#header-1)Contact
