@@ -25,9 +25,9 @@ Hello! I am Ziqi Zhang!
 
 Currently, I am a senior undergraduate student in the Departmrnt of Computer Science, school of EECS at Peking University.
 
-I'm a research assistant in the Institute of Software at Peking University, advised by [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Yao Guo](http://sei.pku.edu.cn/~yaoguo/).
+I work in the Institute of Software at Peking University, advised by [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Yao Guo](http://sei.pku.edu.cn/~yaoguo/).
 
-I was a research assistant in the Center on Frontiers of Computing Studies at Peking University, advised by [Yizhou Wang](http://www.idm.pku.edu.cn/staff/wangyizhou/).
+I worked in the Center on Frontiers of Computing Studies at Peking University, advised by [Yizhou Wang](http://www.idm.pku.edu.cn/staff/wangyizhou/) from 2016.3 to 2017.4.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
