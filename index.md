@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# [](#header-1)Home
 
 <table style="border-style:none">
 <tbody style="border-style:hidden">
@@ -19,7 +20,7 @@ layout: default
 </tbody>
 </table>
 
-# [](#header-1)About me
+# [](#header-2)About me
 
 Hello! I am Ziqi Zhang!
 
@@ -31,7 +32,7 @@ I worked in the Center on Frontiers of Computing Studies at Peking University, a
 
 I'm interested in computer vision, machine learning, SLAM(Simultaneously Localization and Mapping) system and muti-robot cooperation.
 
-# [](#header-1)Education
+# [](#header-2)Education
 
 <table class="imgtable" style="border-style:none">
 	<tbody style="border-style:hidden">
@@ -43,7 +44,7 @@ I'm interested in computer vision, machine learning, SLAM(Simultaneously Localiz
 	</tbody>
 </table>
 
-# [](#header-1)Contact
+# [](#header-2)Contact
 **Address:**
 1435N (Office), Science Building II,
 Peking University, 5th Yiheyuan Road, Beijing, China. 
