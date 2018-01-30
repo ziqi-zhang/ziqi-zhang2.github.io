@@ -12,6 +12,9 @@ Although significant progress has been made in SLAM and object detection in rece
 This work has been accepted by [WACV2018 (IEEE Winter Conf. on Applications of Computer Vision)](http://wacv18.uccs.us/)
 
 ## [](#header-2)A vision-based UAV system
+![]({{site.baseurl}}/assets/images/UAV.png)
+![]({{site.baseurl}}/assets/images/UAV_hover.png)
+
 This vision-based UAV system is capable of self-localization in indoor environment and conducting both dense and sparse reconstruction. It is mainly based on ROS, PX4 professional autopilot, mult-sensor fusion theory and ORB-SLAM system. Its sensors include a monocular camera, a optical flow sensor, a sonar sensor and IMU.
 
 The sonar sensor and IMU is used to initializa the scale information for ORB-SLAM system and to conduct rough localization when ORB-SLAM system doesn't work. The optical flow sensor looks down to collect optical flow vision information, in case the visual slam system doesn't work. The monocular camera looks ahead to collect visual slam information.
@@ -25,8 +28,10 @@ Experimental results have shown that this system is capable of hovering and navi
 
 
 ## [](#header-2)A multi-function smart car
+
 ![]({{site.baseurl}}/assets/images/Smart_car.png)
 ![]({{site.baseurl}}/assets/images/Reconstruction.png)
+
 This multi-function smart car consists of three wheels. It is able to track people based on face features, search missing things, self-localize based on ORB-SLAM, 3D reconstruct, complete missions according human's voice order. 
 
 This work represented Peking University to participate 5th College Students Innovation Exhibition of Beijing.
