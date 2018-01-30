@@ -16,3 +16,5 @@ This work has been accepted by [WACV2018 (IEEE Winter Conf. on Applications of C
 ![]({{site.baseurl}}/assets/images/Smart_car.png)
 ![]({{site.baseurl}}/assets/images/Reconstruction.png)
 This multi-function smart car consists of three wheels. It is able to track people based on face features, search missing things, self-localize based on ORB-SLAM, 3D reconstruct, complete missions according human's voice order. 
+
+This work represented Peking University to participate 5th College Students Innovation Exhibition of Beijing.
