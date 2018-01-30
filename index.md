@@ -33,12 +33,13 @@ I'm interested in computer vision, machine learning, SLAM(Simultaneously Localiz
 
 # [](#header-1)Education
 
-<table class="imgtable"><tr><td>
-<img src="assets/images/pku.jpg" alt="PKU" width="250px" height="88px" />&nbsp;</td>
-<td align="left"><p><b>B.S. Computer Science</b>
-	<p>Aug. 2014 - Jul. 2018 (Expected)<br />
-	Department of Electronics Engineering and Computer Science, <i><b>Peking University</b></i></p>
-</td></tr></table>
+<table class="imgtable">
+	<tr>
+		<td><img src="assets/images/pku.jpg" alt="Ziqi" width="250px" height="88px" />&nbsp;</td>
+		<td align="left"><p><b>Aug. 2014 - Jul. 2018 (Expected)</b> <br />
+		Department of Electronics Engineering and Computer Science, <i><b>Peking University</b></i></p></td>
+	</tr>
+</table>
 
 
 
