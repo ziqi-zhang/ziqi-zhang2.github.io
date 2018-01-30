@@ -3,6 +3,7 @@ layout: default
 ---
 # [](#header-1)Course Projects
 ## [](#header-2)A Multi-robot SLAM System
+![]({{site.baseurl}}/assets/images/Multi_Robot_SLAM.png)
 This is a multi-robot SLAM system based on RobotSDK, Qt and C++. I use Tcp packages of Qt to establish a communication system between different smart cars and control center. Through this system, control center can draw a 2D occupancy grid map based on location and Lidar data collected by each car.
 
 ## [](#header-2)A Parallel Implementation of DAG Traversal Problem
