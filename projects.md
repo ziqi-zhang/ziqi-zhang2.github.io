@@ -12,9 +12,13 @@ Although significant progress has been made in SLAM and object detection in rece
 This work has been accepted by [WACV2018 (IEEE Winter Conf. on Applications of Computer Vision)](http://wacv18.uccs.us/)
 
 ## [](#header-2)A vision-based UAV system
-This vision-based UAV system is capable of self-localization in indoor environment and conducting both dense and sparse reconstruction. It is mainly based on ROS, PX4 professional autopilot, mult-sensor fusion theory and ORB-SLAM system. Its sensors include two monocular cameras, a sonar sensor and a gyro.
+This vision-based UAV system is capable of self-localization in indoor environment and conducting both dense and sparse reconstruction. It is mainly based on ROS, PX4 professional autopilot, mult-sensor fusion theory and ORB-SLAM system. Its sensors include a monocular camera, a optical flow sensor, a sonar sensor and IMU.
 
-The sonar sensor and gyro is used to initializa the scale information for ORB-SLAM system and to conduct rough localization when ORB-SLAM system doesn't work. One monocular camera looks down to collect optical flow vision information, in case the visual slam system doesn't work, and the other one looks ahead to collect visual slam information.
+The sonar sensor and IMU is used to initializa the scale information for ORB-SLAM system and to conduct rough localization when ORB-SLAM system doesn't work. The optical flow sensor looks down to collect optical flow vision information, in case the visual slam system doesn't work. The monocular camera looks ahead to collect visual slam information.
+
+The main part of localization system is ORB-SLAM, a versatile and accurate SLAM solution for Monocular, Stereo and RGB-D cameras. Multi-sensor fusion system consists of External Kalman Filter and some self-defined algorithms. The 3D reconstruction algorithm is DPPTAM (Dense Piecewise Planar Tracking and Mapping).
+
+The sonar sensor and gyro is used to initializa the scale information for ORB-SLAM system and to conduct rough localization when ORB-SLAM system doesn't work. The optical flow sensor looks down to collect optical flow vision information, in case the visual slam system doesn't work. The monocular camera looks ahead to collect visual slam information. 
 
 Experimental results have shown that this system is capable of hovering and navigating in indoor environment.
 
