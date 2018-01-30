@@ -40,7 +40,7 @@ layout: default
 *   **Verilog**
 
 ## [](#header-2)Open-Source Tools
-*   **Python Machine Learning Tools(Numpy, Sklearn)
+*   **Python Machine Learning Tools(Numpy, Sklearn)**
 *   **ROS**
 *   **MXNet**
 *   **Tensorflow**
