@@ -29,6 +29,34 @@ I work in the Institute of Software at Peking University, advised by [Xiangqun C
 
 I worked in the Center on Frontiers of Computing Studies at Peking University, advised by [Yizhou Wang](http://www.idm.pku.edu.cn/staff/wangyizhou/) from 2016.3 to 2017.4.
 
+I'm interested in computer vision, machine learning, SLAM(Simultaneously Localization and Mapping) system and muti-robot cooperation.
+
+# [](#header-1)Education
+
+<table style="border-style:none">
+<tbody style="border-style:hidden">
+<tr>
+  <td><img width="250px" height="88px" src="{{site.baseurl}}/assets/images/pku.jpg"></td>
+  <td align="left">
+    <p><b>B.S. Computer Science</b>
+	  <p>Aug. 2014 - Jul. 2018 (Expected)<br />
+	  Department of Electronics Engineering and Computer Science, <i><b>Peking University</b></i></p>
+  </td>
+  <td>
+    <h_name>Ziqi(Charles) Zhang 张子祺</h_name>
+    <p>Undergraduate Student</p>
+    <p>Institute of Software, School of EECS, Peking University</p>
+    <p>ziqi_zhang [AT] pku [dot] edu [dot] cn</p>
+    <!--p><a href="{{site.baseurl}}/static/files/yuanchun_cv_en.pdf">Download my CV</a>
+    (<a href="{{site.baseurl}}/static/files/yuanchun_cv_zh.pdf">中文版</a>)</p-->
+  </td>
+
+</tr>
+</tbody>
+</table>
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
