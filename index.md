@@ -42,11 +42,12 @@ I'm interested in computer vision, machine learning, SLAM(Simultaneously Localiz
 </table>
 
 # [](#header-1)Contact
-**Address**
-
+**Address:**
 1435N (Office), Science Building II,
-
 Peking University, 5th Yiheyuan Road, Beijing, China. 
+
+**Email:**
+ziqi_zhang [AT] pku [DOT] edu [DOT] cn
 
 
 
