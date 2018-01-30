@@ -6,7 +6,7 @@ layout: default
 ## [](#header-2)Computer Science
 
 *   **Algorithm Design and Analysis**
-*   **Data Structures**
+*   **Data Structures**
 *   **Computer Network**
 
 
