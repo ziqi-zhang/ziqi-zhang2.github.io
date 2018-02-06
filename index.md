@@ -24,7 +24,7 @@ layout: default
 
 Hello! I am Ziqi Zhang!
 
-Currently, I am a senior undergraduate student in the Departmrnt of Computer Science, school of EECS at Peking University.
+Currently, I am a senior undergraduate student in the Department of Computer Science, school of EECS at Peking University.
 
 I work in the Institute of Software at Peking University, advised by [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Yao Guo](http://sei.pku.edu.cn/~yaoguo/).
 
