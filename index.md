@@ -46,7 +46,7 @@ I'm interested in computer vision, machine learning, SLAM(Simultaneously Localiz
 
 ## [](#header-2)Contact
 **Address:**
-1435N (Office), Science Building II,
+1435N (Office), Science Building I,
 Peking University, 5th Yiheyuan Road, Beijing, China. 
 
 **Email:**
