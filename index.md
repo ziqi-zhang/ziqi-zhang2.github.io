@@ -6,7 +6,7 @@ layout: default
 <table style="border-style:none">
 <tbody style="border-style:hidden">
 <tr>
-  <td><img width="256px" src="{{site.baseurl}}/assets/images/ziqi_zhang"></td>
+  <td><img width="256px" src="{{site.baseurl}}/assets/images/ziqi_zhang.png"></td>
   <td>
     <h_name>Ziqi(Charles) Zhang 张子祺</h_name>
     <p>Undergraduate Student</p>
