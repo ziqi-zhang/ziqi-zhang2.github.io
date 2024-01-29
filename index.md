@@ -24,13 +24,10 @@ layout: default
 
 Hello! I am Ziqi Zhang!
 
-Currently, I am a senior undergraduate student in the Department of Computer Science, school of EECS at Peking University.
+Currently, I am a Postdoctoral researcher in the School of Computer Science at Peking University.
 
-I work in the Institute of Software at Peking University, advised by [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Yao Guo](http://sei.pku.edu.cn/~yaoguo/).
+I obtained my PhD degree at Peking University in 2023, advised by [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun), [Yao Guo](http://sei.pku.edu.cn/~yaoguo/), and [Ding Li](https://marapapman.github.io/).
 
-I worked in the Center on Frontiers of Computing Studies at Peking University, advised by [Yizhou Wang](http://www.idm.pku.edu.cn/staff/wangyizhou/) from 2016.3 to 2017.4.
-
-I'm interested in computer vision, machine learning, SLAM(Simultaneously Localization and Mapping) system and muti-robot cooperation.
 
 ## [](#header-2)Education
 
