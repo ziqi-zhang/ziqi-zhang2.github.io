@@ -35,8 +35,18 @@ I obtained my PhD degree at Peking University in 2023, advised by [Xiangqun Chen
 	<tbody style="border-style:hidden">
 	<tr>
 		<td><img src="assets/images/pku.jpg" alt="Ziqi" width="250px" height="88px" />&nbsp;</td>
-		<td align="left"><p><b>Aug. 2014 - Jul. 2018 (Expected)</b> <br />
-		Department of Electronics Engineering and Computer Science, <i><b>Peking University</b></i></p></td>
+		<td align="left"><p><b>Sep. 2018 - Jun. 2023</b> <br />
+		School of Computer Science, <i><b>Peking University</b></i></p></td>
+	</tr>
+	</tbody>
+</table>
+
+<table class="imgtable" style="border-style:none">
+	<tbody style="border-style:hidden">
+	<tr>
+		<td><img src="assets/images/pku.jpg" alt="Ziqi" width="250px" height="88px" />&nbsp;</td>
+		<td align="left"><p><b>Aug. 2014 - Jul. 2018</b> <br />
+		School of Electronics Engineering and Computer Science, <i><b>Peking University</b></i></p></td>
 	</tr>
 	</tbody>
 </table>
