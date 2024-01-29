@@ -9,8 +9,8 @@ layout: default
   <!--td><img width="256px" src="{{site.baseurl}}/assets/images/ziqi_zhang.png"></td-->
   <td>
     <h_name>Ziqi(Charles) Zhang 张子祺</h_name>
-    <p>Undergraduate Student</p>
-    <p>Institute of Software, School of EECS, Peking University</p>
+    <p>Postdoctoral Researcher</p>
+    <p>Institute of Software, School of Computer Science, Peking University</p>
     <p>ziqi_zhang [AT] pku [dot] edu [dot] cn</p>
     <!--p><a href="{{site.baseurl}}/static/files/yuanchun_cv_en.pdf">Download my CV</a>
     (<a href="{{site.baseurl}}/static/files/yuanchun_cv_zh.pdf">中文版</a>)</p-->
